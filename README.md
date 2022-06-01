@@ -1,4 +1,3 @@
-# AAAI2022 
 **This is the official implementation of the AAAI 2022 paper "Efficient Model-Driven Network for Shadow Removal."**
 [Paper Link](https://www.aaai.org/AAAI22Papers/AAAI-196.ZhuY.pdf)
 
